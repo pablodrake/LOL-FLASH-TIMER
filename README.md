@@ -1,2 +1,2 @@
 # LOL-FLASH-TIMER
-Simple interface to track flash summoner spell cd
+Simple interface to track flash summoner spell cooldown.
